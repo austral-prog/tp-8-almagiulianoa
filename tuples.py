@@ -1,5 +1,4 @@
 def get_coordinate(record):
-    # record = (tesoro, coordenada)
     tesoro, coordenada = record
     return coordenada
 
